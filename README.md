@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @danielmayost
+- 🌱 I’m currently learning .NET Core
+- 📫 reach me here
